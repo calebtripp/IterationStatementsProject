@@ -1,4 +1,83 @@
-﻿using System;
+﻿
+using System;
+using System.Threading.Channels;
+// Exercise 1
+//for (int i = 0; i < 5; i++)
+//        {
+//              Console.WriteLine($"{i}");
+//        }
+
+//for (int i = 0; i < 5; i++)
+//        {
+//              Console.WriteLine($"{i}");
+//        }
+
+//for (int i = 0; i < 5; i++)
+//        {
+//              Console.WriteLine($"{i}");
+//        }
+
+//for (int i = 0; i < 5; i++)
+//        { 
+//              Console.WriteLine($"{i}");
+//        { 
+
+//for (int i = 0; i <5; i++)
+//        {
+//             Console.WriteLine($"{i}");
+//        }
+
+//for (int i = 0; i <5; i++)
+//        {
+//             Console.WriteLine(i);
+//        }
+
+//for (int i = 0; i < 5; i++)
+//        {
+//             Console.WriteLine(i);
+//        }
+
+//for (int i = 0; i < 5; i++)
+//        {
+//            Console.WriteLine(i);
+//        }
+
+//for (int i = 0; i < 5; i++)
+//        {
+//            Console.WriteLine(i);
+//        }
+
+//for (int i = 0; i < 5; i++) 
+//        {
+//            Console.WriteLine(i);
+//        }
+
+//for (int i = 0; i < 5; i++)
+//        {
+//            Console.WriteLine(i);
+//        }
+
+//for int i = 0; i < 5; i++)
+//        {
+//            Console.WriteLine(i);
+//        }
+
+//for int i = 0; i < 5; i++)
+//        {
+//            Console.WriteLine(i);
+//        }
+
+//for int i = 0; i < 5; i++)
+//        {
+//            Console.WriteLine(i);
+//        }
+//for int i = 0; i < 5; i++)
+//        {
+//            Console.WriteLine(i);
+//        }
+
+
+using System;
 using System.Collections.Generic;
 
 namespace IterationStatements
